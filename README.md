@@ -134,7 +134,7 @@ _More community skills coming soon! Submit a PR to add your skill._
 ### Tools
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Convert documentation websites into Claude Skills
-- **[naygelai-stack/n8n-mcp](https://github.com/naygelai-stack/n8n-mcp)** - MCP server that lets Claude and other AI assistants read failed executions, then debug, edit, validate, test, and build n8n workflows on any n8n instance
+- **[czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)** - MCP server that lets Claude and other AI assistants read failed executions, then debug, edit, validate, test, and build n8n workflows on any n8n instance
 
 ## ✏️ Creating Your First Skill
 
