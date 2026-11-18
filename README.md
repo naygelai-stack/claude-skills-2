@@ -134,6 +134,8 @@ _More community skills coming soon! Submit a PR to add your skill._
 ### Tools
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Convert documentation websites into Claude Skills
+- **[czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)** - MCP server that lets Claude and other AI assistants read failed executions, then debug, edit, validate, test, and build n8n workflows on any n8n instance
+- **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** - Security scanner that statically analyzes Claude/Codex skills and MCP servers for malicious patterns, vulnerabilities, and known CVEs before you install them
 
 ## ✏️ Creating Your First Skill
 
